@@ -98,7 +98,9 @@
 					<configuration>
 						<args>
 							<arg>-target:jvm-1.5</arg>
+							<arg>-deprecation</arg>
 							<arg>-unchecked</arg>
+							<arg>-Xcheckinit</arg>
 						</args>
 					</configuration>
 				</plugin>
