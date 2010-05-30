@@ -48,8 +48,8 @@
 
 		<!--
 			Specs-related dependencies
-			The following dependencies consist of Specs itself and its optional dependencies that SD makes use of. Make sure to keep all
-			the of the optional dependencies in sync to the Specs version.
+			The following dependencies consist of Specs itself and some of its optional dependencies. Make sure to keep all the of the
+			optional dependencies in sync with the Specs version.
 		-->
 		<dependency>
 			<groupId>org.scala-tools.testing</groupId>
