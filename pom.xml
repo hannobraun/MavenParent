@@ -41,7 +41,7 @@
 
 		<!--
 			Specs-related dependencies
-			The following dependencies consist of Specs itself and some of its optional dependencies. Make sure to keep all the of the
+			The following dependencies consist of Specs itself and some of its optional dependencies. Make sure to keep all of the
 			optional dependencies in sync with the Specs version.
 		-->
 		<dependency>
